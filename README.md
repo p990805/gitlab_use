@@ -29,3 +29,10 @@
 ![alt text](images/2025-03-23.png)
 
 </details>
+
+<details>
+    <summary>2025-03-24</summary>
+
+![alt text](images/2025-03-24.png)
+
+</details>
