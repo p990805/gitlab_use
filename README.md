@@ -59,8 +59,17 @@
 </details>
 
 <details>
-    <summary>2025-03-27</summary>
+    <summary>2025-03-28</summary>
 
 ![alt text](images/2025-03-28.png)
+
+</details>
+
+<details>
+    <summary>2025-03-29</summary>
+
+![alt text](images/2025-03-29.png)
+
+### 오늘은 주말사이 팀원간에 깃 충돌을 막기위해 로컬에서만 작업해서 기여도가 작습니다. !
 
 </details>
