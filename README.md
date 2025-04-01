@@ -73,3 +73,10 @@
 ### 오늘은 주말사이 팀원간에 깃 충돌을 막기위해 로컬에서만 작업해서 기여도가 작습니다. !
 
 </details>
+
+<details>
+    <summary>2025-04-01</summary>
+
+![alt text](images/2025-04-01.png)
+
+</details>
