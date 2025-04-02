@@ -80,3 +80,10 @@
 ![alt text](images/2025-04-01.png)
 
 </details>
+
+<details>
+    <summary>2025-04-02</summary>
+
+![alt text](images/2025-04-02.png)
+
+</details>
