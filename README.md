@@ -108,3 +108,10 @@
 ![alt text](images/2025-04-05.png)
 
 </details>
+
+<details>
+    <summary>2025-04-06</summary>
+
+![alt text](images/2025-04-06.png)
+
+</details>
