@@ -122,3 +122,10 @@
 ![alt text](images/2025-04-07.png)
 
 </details>
+
+<details>
+    <summary>2025-04-08</summary>
+
+![alt text](images/2025-04-08.png)
+
+</details>
