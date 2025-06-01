@@ -290,3 +290,10 @@
 ![alt text](images/2025-05-31.png)
 
 </details>
+
+<details>
+    <summary>2025-06-01</summary>
+
+![alt text](images/2025-06-01.png)
+
+</details>
