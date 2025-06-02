@@ -297,3 +297,10 @@
 ![alt text](images/2025-06-01.png)
 
 </details>
+
+<details>
+    <summary>2025-06-02</summary>
+
+![alt text](images/2025-06-02.png)
+
+</details>
